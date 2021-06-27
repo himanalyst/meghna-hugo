@@ -16,5 +16,5 @@ skill:
     percent: 80%
   - name: Creativity
     percent: 95%
-  - name: Android Development
+  - name: MySQL
     percent: 75%
