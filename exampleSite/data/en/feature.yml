@@ -1,6 +1,6 @@
 ---
 feature:
-  enable: true
+  enable: false
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: We’re A Digital Design Agency.
@@ -23,3 +23,4 @@ feature:
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
+draft: true
