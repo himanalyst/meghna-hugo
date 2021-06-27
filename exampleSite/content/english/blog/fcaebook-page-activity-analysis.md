@@ -1,7 +1,7 @@
 +++
 author = "Himanshu Kumar"
 date = 2021-05-16T10:30:00Z
-description = ""
+description = "Data Analysis using Python and Kaggle Dataset"
 draft = true
 image = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
 image_webp = "/images/timothy-hales-bennett-owvrb-m3gwe-unsplash.jpg"
