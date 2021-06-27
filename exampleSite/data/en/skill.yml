@@ -11,7 +11,7 @@ skill:
   - name: Python
     percent: 90%
   - name: Analysis
-    percent: 70%
+    percent: 85%
   - name: Design
     percent: 80%
   - name: IOS Development
