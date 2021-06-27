@@ -8,5 +8,5 @@ banner:
   content: Analytics Consultant
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Portfolio
+    link: https://jovian.ai/2018ugce052
