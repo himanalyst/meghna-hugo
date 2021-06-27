@@ -11,10 +11,8 @@ contact:
     info: Arhat Road, Daltonganj, Jharkhand, India
   - icon: ti-mobile
     info: 'Phone: +91 9610690992'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: himanshukumar8590@outlook.com'
   contact_form:
     enable: true
     form_action: "#"
