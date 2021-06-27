@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-themesDir = "../.."
+themesDir = "./."
 title = "Analytics Portfolio"
 [Languages.en]
 contentDir = "content/english"
@@ -127,14 +127,14 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "https://icon-library.com/images/letter-h-icon/letter-h-icon-24.jpg"
 [[params.social]]
-icon = "ti-instagram"
-link = "https://instagram.com/dualmoonfilms?utm_medium=copy_link"
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/in/himanshu-kumar-862130193/"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/himanshu.kumar.8590"
 [[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/dualmoonfilms?utm_medium=copy_link"
+[[params.social]]
 icon = "ti-youtube"
 link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "https://www.linkedin.com/in/himanshu-kumar-862130193/"
